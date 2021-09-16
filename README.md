@@ -2,9 +2,12 @@
 
 Flutter Assignment for master's india
 
-## Technologies Used
+## 💻 Technologies Used
 
-Flutter, Bloc, Freezed, Dart
+- Flutter
+- Bloc
+- Freezed
+- Dart
 
 ## Screenshots
 
